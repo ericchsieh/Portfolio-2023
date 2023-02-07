@@ -12,7 +12,7 @@ function PortfolioItem({title, imgUrl, stack, link}) {
             target="_blank"
             rel="noopener noreferrer" 
             >
-                <div className="absolute top-[30%] text-center w-full opacity-0 group-hover:opacity-100 transition duration-300 ease-in-out">
+                <div className="absolute top-[28%] text-xl text-center w-full opacity-0 group-hover:opacity-100 transition duration-300 ease-in-out">
                     GitHub
                 </div>
                 <img 
