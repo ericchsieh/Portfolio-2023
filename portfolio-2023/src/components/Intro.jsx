@@ -50,6 +50,13 @@ function Intro() {
                     </svg>
                 </a>
                 
+                <a href="https://www.dropbox.com/s/er4c1gyygeuakli/Eric_Hsieh_Resume.pdf?dl=0" 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                className="download mx-7">View Resume
+                </a>
+                
+                
             </div>
             <br/>
         </div>
