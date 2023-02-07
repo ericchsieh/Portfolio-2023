@@ -76,6 +76,8 @@ function App() {
           <Intro/>
           <Portfolio/>
           <Timeline/>
+          <br/>
+          <br/>
           <Footer/>
         </div>
       </div>

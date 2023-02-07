@@ -13,7 +13,7 @@ export default [
     },
     {
         title: 'Developer Portfolio',
-        imgUrl: '',
+        imgUrl: 'assets/Developer-portfolio.png',
         stack: ['React', 'Tailwind', 'Vite'],
         link: 'https://github.com/ericchsieh/portfolio-2023',
     },
