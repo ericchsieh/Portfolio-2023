@@ -50,11 +50,14 @@ function Intro() {
                     </svg>
                 </a>
                 
+                <a className="my-7 mx-7">
                 <a href="https://www.dropbox.com/s/er4c1gyygeuakli/Eric_Hsieh_Resume.pdf?dl=0" 
                 target="_blank" 
                 rel="noopener noreferrer" 
-                className="download mx-7">View Resume
+                className="bg-blue-500 hover:bg-blue-700 opacity-90 text-white font-bold py-2 px-4 rounded dark:bg-red-500 dark:hover:bg-red-700">View Resume
                 </a>
+                </a>
+                
                 
                 
             </div>
