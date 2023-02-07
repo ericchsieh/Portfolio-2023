@@ -19,7 +19,7 @@ function PortfolioItem({title, imgUrl, stack, link}) {
                     src={imgUrl} 
                     alt="portfolio" 
                     className="w-full h-36 md:h-48 object-cover cursor-pointer
-                    opacity-100 group-hover:opacity-30 transition duration-300 ease-in-out bg-black-700
+                    opacity-100 group-hover:opacity-20 transition duration-300 ease-in-out bg-black-700
                     "
                 />
             </a>
