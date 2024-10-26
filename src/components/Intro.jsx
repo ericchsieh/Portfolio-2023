@@ -9,14 +9,19 @@ function Intro() {
             <h1 className="text-4xl md:text-7xl dark:text-white mb-1
             md:mb-3 font-bold">Eric Hsieh</h1>
             <p className="text-base md:text-xl mb-3 font-medium">Aspiring Software Developer</p>
-            <p className ="text-sm max-w-xl mb-6 font-bold">Hello! My name is Eric and I am currently studying Computer Science, 
-            Physics, and Earth Sciences at the University of British Columbia, expecting to graduate in May 2023. 
-            With my degree, I enjoyed having a comprehensive understanding of the natural sciences as they provides me an analytic problem-solving 
-            outlook from the basic understanding of nature. 
+            <p className ="text-sm max-w-xl mb-6 font-bold">IT professional with a passion for optimizing organizational systems and workflows to enhance efficiency and productivity. 
+                Experienced in providing tailored IT support and solutions to strengthen globally acclaimed research capabilities. Currently pursuing the 
+                'Key Capabilities in Data Science' with the UBC Certification Program to further enhance my technical skills. 
             <br/>
             <br/>
-            I enjoy working on full-stack web applications and designing solutions to solve real world problems. I am a problem solver 
-            aspiring to become an exceptionally skilled software engineer.
+            I have a keen interest in programming and data analytics, passionate about leveraging my expertise to support local communities and organizations. Particularly drawn to the Technology and Hospitality sector. 
+            I am actively exploring the Data Analytics career path and am eager to connect with professionals in this field to learn more! Committed to utilizing technology for positive impact!
+            <br/>
+            <br/>
+            When I'm not in my office, you'll find me cycling around the steep hills of Vancouver, working on car projects, or hiking the coastal mountains! 🚴 🚘 🏔️ 🏌️‍♂️🙌
+            <br/>
+            <br/>
+            Let's connect!   
             </p>
             <div className="flex">
                 <a 

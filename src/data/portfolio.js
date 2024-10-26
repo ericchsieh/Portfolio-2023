@@ -26,7 +26,7 @@ export default [
     {
         title: 'StockTrader',
         imgUrl: 'assets/StockTrader.jpg',
-        stack: ['HTML', 'CSS', 'JavaScript'],
+        stack: ['Python','HTML', 'CSS', 'Flask'],
         link: 'https://github.com/ericchsieh/StockTrader',
     },
 ]
